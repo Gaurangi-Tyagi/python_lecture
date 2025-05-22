@@ -1,4 +1,4 @@
 # python_lecture
 
-This is a repo for learning purposes
-Will be removed soon.
+
+This is a repo for learning purpose. Will be removed soon.
